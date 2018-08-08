@@ -1,0 +1,6 @@
+torchvision
+numpy
+opencv-python
+matplotlib
+pyyaml
+selenium
